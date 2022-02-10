@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hola 👋
 
 <![](https://www.tijuana.tecnm.mx/wp-content/uploads/2015/05/DEPARTAMENTO-DE-SISTEMAS-Y-COMPUTACION_HEADING.png)
 
-- 🔭 I’m currently working on TribalDevs
-- 🌱 I’m currently learning Backend (Python)
-- ⚡ Fun fact: I don't know how programming 
+- 🔭 Actualmente estoy trabajando en el equipo de TribalDevs
+- 🌱 Actualmente estoy aprediendo Backend (Python)
+- ⚡ Dato sin importancia: No se programar 
 
 |           | **Lunes**                       | **Martes**                      | **Miercoles**                | **Jueves**                   | **Viernes**                     |
 |-----------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
