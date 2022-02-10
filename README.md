@@ -1,4 +1,4 @@
-### Hola 👋
+### Hola 👋🏼
 
 ![](https://www.tijuana.tecnm.mx/wp-content/uploads/2015/05/DEPARTAMENTO-DE-SISTEMAS-Y-COMPUTACION_HEADING.png)
 
