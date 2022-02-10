@@ -1,10 +1,12 @@
 ### Hola 👋
 
-<![](https://www.tijuana.tecnm.mx/wp-content/uploads/2015/05/DEPARTAMENTO-DE-SISTEMAS-Y-COMPUTACION_HEADING.png)
+![](https://www.tijuana.tecnm.mx/wp-content/uploads/2015/05/DEPARTAMENTO-DE-SISTEMAS-Y-COMPUTACION_HEADING.png)
 
 - 🔭 Actualmente estoy trabajando en el equipo de TribalDevs
 - 🌱 Actualmente estoy aprediendo Backend (Python)
 - ⚡ Dato sin importancia: No se programar 
+
+Horario:
 
 |           | **Lunes**                       | **Martes**                      | **Miercoles**                | **Jueves**                   | **Viernes**                     |
 |-----------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
