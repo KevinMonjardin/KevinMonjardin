@@ -3,7 +3,7 @@
 <![](https://www.tijuana.tecnm.mx/wp-content/uploads/2015/05/DEPARTAMENTO-DE-SISTEMAS-Y-COMPUTACION_HEADING.png)
 
 - 🔭 I’m currently working on TribalDevs
-- 🌱 I’m currently learning Backend/Frontend
+- 🌱 I’m currently learning Backend (Python)
 - ⚡ Fun fact: I don't know how programming 
 
 |           | **Lunes**                       | **Martes**                      | **Miercoles**                | **Jueves**                   | **Viernes**                     |
