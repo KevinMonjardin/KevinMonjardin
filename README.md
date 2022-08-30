@@ -7,12 +7,11 @@
 - ⚡ Dato sin importancia: No se programar 
 
 Horario:
-
-|           | **Lunes**                       | **Martes**                      | **Miercoles**                | **Jueves**                   | **Viernes**                     |
-|-----------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| **13:00** | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos |
-| **14:00** | Ingenieria de Software          | Ingenieria de Software          | Ingenieria de Software          | Ingenieria de Software          |      Ingenieria de Software     |
-| **15:00** | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         |
-| **16:00** | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           |                                 |
-| **17:00** | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   |                                 |
-| **18:00** | Redes de Computadora            | Redes de Computadora            | Redes de Computadora            | Redes de Computadora            | Redes de Computadora            |
+|       |                     Lunes                    |                    Martes                    |                   Miercoles                  |                    Jueves                    |                    Viernes                   |
+|-------|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
+| 14:00 | Taller de investigación 1                    | Taller de investigación 1                    | Taller de investigación 1                    | Taller de investigación 1                    | Gestión de proyectos de software             |
+| 15:00 | Gestión de proyectos de software             | Gestión de proyectos de software             | Gestión de proyectos de software             | Gestión de proyectos de software             | Gestión de proyectos de software             |
+| 16:00 | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos |
+| 17:00 | Sistemas programables                        | Sistemas programables                        | Sistemas programables                        | Sistemas programables                        |                                              |
+| 18:00 | Lenguajes y autómatas 2                      | Lenguajes y autómatas 2                      | Lenguajes y autómatas 2                      | Lenguajes y autómatas 2                      | Lenguajes y autómatas 2                      |
+| 19:00 | Programación lógica y funcional              | Programación lógica y funcional              | Programación lógica y funcional              | Programación lógica y funcional              |                                              |
