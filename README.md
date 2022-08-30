@@ -7,7 +7,8 @@
 - ⚡ Dato sin importancia: No se programar 
 
 Importancia del Markdown:
-Considero que Markdown es una herramienta muy buena para que nuestros repositorios (incluido el de presentación) se vean mas presentables, estructurados y ordenados, lo que facilita su lectura, ya que podemos resaltar títulos, ordenar listas y tablas, además de poder pegar código ordenado con formato.
+Considero que Markdown es una herramienta muy buena para que nuestros repositorios (incluido el de presentación) se vean mas presentables, estructurados y ordenados, lo que facilita su lectura, ya que podemos **resaltar** *títulos*, ordenar listas y tablas, además de poder pegar código ordenado con formato.
+
 Horario:
 |       |                     Lunes                    |                    Martes                    |                   Miercoles                  |                    Jueves                    |                    Viernes                   |
 |-------|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
