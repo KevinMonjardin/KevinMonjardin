@@ -2,7 +2,7 @@
 
 ![](https://www.tijuana.tecnm.mx/wp-content/uploads/2015/05/DEPARTAMENTO-DE-SISTEMAS-Y-COMPUTACION_HEADING.png)
 
-- 🔭 Actualmente estoy trabajando en el equipo de TribalDevs
+- 🔭 Formo parte del equipo de TribalDevs
 - 🌱 Actualmente estoy aprediendo Backend (Python) 
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMonjardin&theme=synthwave)](https://github.com/KevinMonjardin/github-readme-stats)
